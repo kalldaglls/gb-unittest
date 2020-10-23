@@ -57,7 +57,6 @@ public class MathUtilsTest {
                 Arguments.arguments((Object) new int[]{1, 4, 1, 5, 1, 4}),
                 Arguments.arguments((Object) new int[]{}),
                 Arguments.arguments((Object) new int[]{1, 1, 1, 1, 1, 1})//Почему заставил кастить Object?
-
                 );
     }
     /*
